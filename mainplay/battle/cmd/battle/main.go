@@ -1,1 +1,5 @@
-package battle
+package main
+
+func main() {
+
+}

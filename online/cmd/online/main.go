@@ -1,1 +1,5 @@
-package online
+package main
+
+func main() {
+
+}
